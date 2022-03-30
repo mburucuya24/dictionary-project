@@ -11,7 +11,15 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Pauline Hwang</footer>
+        <footer className="text-center">
+          <a
+            href="https://github.com/mburucuya24/dictionary-project"
+            target="_blank"
+          >
+            Open-source code
+          </a>{" "}
+          by Pauline Hwang
+        </footer>
       </div>
     </div>
   );
